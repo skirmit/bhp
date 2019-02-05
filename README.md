@@ -1,3 +1,3 @@
-# Black Hat Python
+# BHP
 
-This is a bunch of scripts written in python from the book Black Hat Python. They may be slightly modified to suit my needs.
+This is a bunch of scripts written in python for network penetration testing when you only have Python installed on the box! They may be slightly modified to suit my needs.
